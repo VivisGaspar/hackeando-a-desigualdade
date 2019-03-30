@@ -1,24 +1,24 @@
 # hackeando-a-desigualdade 👩‍💻
 
-##SOBRE O PRODUTO.
+## SOBRE O PRODUTO.
 
-###Introdução 
+### Introdução 
 Plataforma que visa juntar  pessoas em diversos níveis para incentivar e ampliar o acesso ao estudo da programação.
 
-###Público alvo  
+### Público alvo  
 Mulheres a partir do ensino médio e em tentar alcançar meninas que nem pensam em entrar na área.
 
-###Vantagens 
+### Vantagens 
 Contando com mentores voluntários, a estudante poderá agendar mentorias sobre a linguagem de programação que está estudando e também “trocar figurinhas” sobre a experiência da pessoa na área.
 
-###Como funcionará 
+### Como funcionará 
 Os mentores realizarão um cadastro onde colocarão quais linguagens de programação dominam e quais são os dias e os horários que tem disponíveis.
 As estudantes reservarão o horário de mentoria e tentará resolver suas dúvidas.
 
-###Como atingir pessoas que não possuem computador em casa  
+### Como atingir pessoas que não possuem computador em casa  
 será disponibilizado na plataforma a localização dos CEUs mais próximos a pessoa para que ela possa ir usar o computador e estudar
 
-###Argumentos  
+### Argumentos  
 Elas são minorias nos cursos de tecnologia, correspondem apenas 18% no total de programadores.
 Representam 25% da força de trabalho da indústria digital, conforme alerta global da ONU Mulheres sobre as desigualdades de gênero nas carreiras de ciências exatas e tecnologia.
 No Brasil, o percentual de mulheres nas áreas de Tecnologia da Informação (TI) é ainda menor. Elas são apenas 20% dos mais de 580 mil profissionais de TI que atuam no país, segundo a PNAD/IBGE 2016 (Pesquisa Nacional por Amostra de Domicílio do Instituto Brasileiro de Geografia e Estatística).
@@ -28,7 +28,7 @@ Outro desafio 41% das mulheres que atuam na tecnologia desistem de suas carreira
 Representa um problema também para empresas,equipes mais diversas tendem a ter melhor desempenho, resistência. a corrupção, empatia com clientes e tornam as empresas mais lucrativas.
 
 
-###Formas de monetizar
+### Formas de monetizar
 
 Deixar aplicativos gratuito e colocar anúncios ou patrocínio direto;
 Empresas 
