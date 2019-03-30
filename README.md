@@ -1,2 +1,1 @@
-# hackeando-a-desigualdade
-👩‍💻
+# hackeando-a-desigualdade 👩‍💻
